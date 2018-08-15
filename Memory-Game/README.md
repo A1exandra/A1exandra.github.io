@@ -3,10 +3,6 @@
 Hi,
 This is *Memory Game*, a match-2 type game.
 You click on one of those rectangle shapes that is actually the back of a playing card and the shape flips to reveal its underlying symbol.
-## Table of Contents
-
-* [Play the game](#play the game)
-* [General rules](#general rules)
 
 ## Play the game
 
