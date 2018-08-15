@@ -1,7 +1,7 @@
 # Memory Game
 
 Hi,
-This is *Memory Game*, a match-2 type game.
+This is *Memory Game*, a match-2 type game. And here's the [preview](https://a1exandra.github.io/Memory-Game/).
 You click on one of those rectangle shapes that is actually the back of a playing card and the shape flips to reveal its underlying symbol.
 
 ## Play the game
